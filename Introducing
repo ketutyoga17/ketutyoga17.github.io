@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Ketut Yoga's Profile</title>
+  </head>
+  <body>
+    <img src="https://linkgambar.com/wp-content/uploads/2022/02/gambar-animasi-profil-whatsapp-lucu-10.gif" alt="Profile Picture">
+    <h1>Ketut Yoga</h1>
+    <p>Hi, I'm Ketut Yoga. I'm a web developer based in Bali, Indonesia.</p>
+    <h2>Get in touch:</h2>
+    <ul>
+      <li>Instagram: <a href="https://instagram.com/ketutyoga_?igshid=ZDdkNTZiNTM=">ketutyoga_</a></li>
+      <li>WhatsApp: <a href="http://wa.me/6281933194720">+6281933194720</a></li>
+      <li>YouTube: <a href="https://m.youtube.com/@ketutyoga">Ketut Yoga</a></li>
+      <li>iStock: <a href="https://www.istockphoto.com/id/portfolio/ketutyoga?fbclid=PAAaaLDg2qlgmlUNd2kytev-P9sWxSbNYJBT6d9ZMxXHBMZrV6YVs2Z4-vFOo">Ketut Yoga</a></li>
+    </ul>
+  </body>
+</html>
